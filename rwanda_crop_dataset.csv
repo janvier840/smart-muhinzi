@@ -1,0 +1,501 @@
+Crop,Soil_pH,Soil_Moisture(%),Nitrogen(mg/kg),Phosphorus(mg/kg),Potassium(mg/kg),Health_Status,Disease
+Groundnuts,6.49,69.89,138.09,19.04,186.91,Unhealthy,Early Leaf Spot
+Bananas,4.65,38.12,134.18,6.69,94.11,Unhealthy,Panama Disease
+Cassava,6.96,76.75,81.82,21.82,138.21,Unhealthy,Cassava Mosaic
+Beans,6.96,40.64,60.72,16.92,194.59,Unhealthy,Anthracnose
+Bananas,7.25,53.56,117.32,94.7,52.36,Unhealthy,Banana Streak Virus
+Sweet Potatoes,7.23,59.53,80.02,72.06,146.46,Unhealthy,Black Rot
+Beans,4.55,58.25,44.76,55.5,134.41,Unhealthy,Root Rot
+Groundnuts,6.54,53.6,73.46,53.97,178.34,Healthy,Healthy
+Maize,5.81,62.87,74.57,95.24,100.04,Healthy,Healthy
+Beans,4.73,41.39,45.38,18.61,196.02,Unhealthy,Anthracnose
+Bananas,7.26,18.63,116.46,33.36,98.19,Unhealthy,Banana Streak Virus
+Groundnuts,5.1,36.08,147.67,21.66,90.85,Healthy,Healthy
+Beans,6.06,59.31,34.88,19.83,22.9,Unhealthy,Anthracnose
+Bananas,7.31,54.41,32.92,59.98,110.15,Healthy,Healthy
+Beans,5.44,21.56,103.74,97.23,33.37,Healthy,Healthy
+Beans,5.98,42.88,74.94,79.95,87.78,Unhealthy,Root Rot
+Soya Beans,6.0,53.2,103.57,20.08,88.86,Unhealthy,Rust
+Groundnuts,5.46,12.76,93.55,44.82,117.72,Healthy,Healthy
+Bananas,4.55,25.96,57.52,20.87,126.72,Healthy,Healthy
+Sweet Potatoes,7.46,66.31,81.14,54.55,16.61,Healthy,Healthy
+Groundnuts,6.35,17.8,83.97,79.55,59.53,Unhealthy,Early Leaf Spot
+Groundnuts,5.88,24.77,10.53,37.02,20.6,Healthy,Healthy
+Maize,7.44,53.1,147.65,7.54,51.56,Unhealthy,Maize Streak Virus
+Groundnuts,5.27,74.02,97.92,37.16,95.63,Unhealthy,Early Leaf Spot
+Cassava,6.47,15.52,72.81,88.89,175.6,Unhealthy,Cassava Mosaic
+Cassava,5.36,63.57,143.58,53.66,165.34,Unhealthy,Cassava Mosaic
+Beans,4.79,54.37,119.36,23.75,23.41,Unhealthy,Anthracnose
+Soya Beans,5.28,55.41,123.06,5.93,161.55,Healthy,Healthy
+Groundnuts,7.1,26.64,77.55,70.36,67.63,Unhealthy,Early Leaf Spot
+Bananas,6.1,20.81,61.73,43.34,196.8,Unhealthy,Panama Disease
+Beans,4.9,27.51,112.49,66.27,21.65,Unhealthy,Root Rot
+Maize,6.86,36.95,68.8,48.14,59.99,Unhealthy,Leaf Blight
+Cassava,7.15,54.53,50.75,69.44,138.47,Healthy,Healthy
+Soya Beans,4.81,54.82,50.36,61.1,103.62,Healthy,Healthy
+Sweet Potatoes,4.9,77.11,123.92,32.15,155.89,Unhealthy,Black Rot
+Sweet Potatoes,6.67,71.85,92.39,7.76,162.63,Unhealthy,Scab
+Maize,5.18,35.89,93.44,77.65,158.67,Healthy,Healthy
+Bananas,5.03,43.12,95.93,54.91,127.74,Unhealthy,Panama Disease
+Beans,5.48,31.79,55.03,69.91,102.73,Healthy,Healthy
+Groundnuts,6.78,66.87,95.08,54.88,27.82,Unhealthy,Aflatoxin Contamination
+Maize,5.16,33.06,15.06,28.48,136.74,Unhealthy,Maize Streak Virus
+Maize,5.71,51.64,65.81,80.13,108.5,Unhealthy,Leaf Blight
+Cassava,6.2,74.47,132.91,91.32,26.16,Healthy,Healthy
+Soya Beans,6.44,61.11,96.99,88.77,153.84,Healthy,Healthy
+Maize,4.6,50.74,51.67,59.13,158.63,Healthy,Healthy
+Soya Beans,6.12,75.55,66.15,61.54,35.85,Unhealthy,Rust
+Cassava,5.55,55.75,144.25,45.65,124.58,Unhealthy,Bacterial Wilt
+Bananas,6.89,50.99,42.29,5.4,35.72,Unhealthy,Banana Streak Virus
+Bananas,7.11,78.76,77.55,99.03,111.72,Unhealthy,Banana Streak Virus
+Beans,6.03,59.29,124.88,42.22,59.06,Unhealthy,Anthracnose
+Cassava,5.44,42.89,82.94,42.53,26.95,Unhealthy,Bacterial Wilt
+Beans,6.0,29.79,99.02,99.46,34.76,Unhealthy,Anthracnose
+Soya Beans,6.88,37.51,128.55,57.43,135.26,Unhealthy,Rust
+Maize,5.57,31.69,122.77,58.99,174.71,Unhealthy,Leaf Blight
+Beans,4.51,56.23,75.88,74.57,96.02,Healthy,Healthy
+Groundnuts,5.45,11.27,37.4,39.19,105.75,Unhealthy,Aflatoxin Contamination
+Beans,5.89,65.74,134.55,51.15,158.4,Unhealthy,Root Rot
+Soya Beans,6.88,19.49,24.88,74.09,70.58,Unhealthy,Rust
+Soya Beans,6.53,20.29,121.14,18.43,108.25,Unhealthy,Rust
+Maize,6.48,69.86,53.79,9.12,171.8,Unhealthy,Leaf Blight
+Maize,5.15,36.08,41.38,5.1,59.0,Unhealthy,Maize Streak Virus
+Groundnuts,7.47,43.48,109.34,47.34,183.21,Unhealthy,Early Leaf Spot
+Maize,5.24,19.71,60.27,26.96,150.71,Unhealthy,Leaf Blight
+Beans,5.47,30.46,53.2,76.93,147.04,Unhealthy,Anthracnose
+Maize,5.1,74.13,134.92,48.67,145.66,Unhealthy,Leaf Blight
+Beans,4.55,52.32,27.49,36.25,55.18,Unhealthy,Root Rot
+Bananas,5.77,17.34,75.81,37.88,86.66,Unhealthy,Panama Disease
+Sweet Potatoes,6.17,26.78,52.64,17.4,132.85,Unhealthy,Scab
+Bananas,5.28,20.57,20.54,10.97,111.16,Unhealthy,Banana Streak Virus
+Beans,7.46,34.47,50.19,19.87,120.32,Healthy,Healthy
+Sweet Potatoes,5.02,61.39,104.61,24.88,112.96,Healthy,Healthy
+Cassava,6.0,18.23,15.16,46.91,189.36,Unhealthy,Bacterial Wilt
+Soya Beans,7.11,54.65,58.65,59.25,43.91,Unhealthy,Downy Mildew
+Groundnuts,6.91,27.38,83.73,41.7,49.74,Healthy,Healthy
+Sweet Potatoes,5.36,30.85,18.98,93.39,199.56,Unhealthy,Scab
+Maize,4.99,25.26,63.91,66.27,134.58,Unhealthy,Leaf Blight
+Cassava,6.64,17.46,13.99,47.21,171.61,Healthy,Healthy
+Soya Beans,5.53,61.12,17.71,77.46,145.33,Unhealthy,Rust
+Groundnuts,6.77,61.68,93.38,62.0,148.58,Healthy,Healthy
+Bananas,5.59,19.84,135.82,67.25,198.35,Healthy,Healthy
+Bananas,4.74,43.2,68.1,65.46,143.97,Healthy,Healthy
+Maize,6.97,52.07,44.83,34.11,169.34,Unhealthy,Maize Streak Virus
+Cassava,6.05,61.47,55.44,96.06,158.1,Healthy,Healthy
+Sweet Potatoes,6.64,54.75,21.79,30.51,198.72,Unhealthy,Scab
+Beans,6.85,64.53,102.73,46.0,40.59,Unhealthy,Anthracnose
+Cassava,6.04,36.45,50.93,77.38,118.79,Healthy,Healthy
+Soya Beans,4.82,19.16,123.62,45.2,12.31,Healthy,Healthy
+Sweet Potatoes,7.33,62.41,79.63,8.85,66.61,Healthy,Healthy
+Sweet Potatoes,4.52,26.39,142.46,86.83,31.73,Unhealthy,Scab
+Beans,4.93,20.93,94.5,44.28,103.98,Healthy,Healthy
+Sweet Potatoes,5.11,69.47,71.81,51.9,116.96,Unhealthy,Black Rot
+Bananas,6.3,49.61,125.26,86.17,199.54,Unhealthy,Banana Streak Virus
+Sweet Potatoes,6.23,47.14,112.21,83.99,39.9,Healthy,Healthy
+Cassava,5.99,42.48,19.19,29.71,113.49,Unhealthy,Cassava Mosaic
+Cassava,4.95,60.06,79.16,42.33,143.94,Healthy,Healthy
+Soya Beans,6.62,35.42,32.85,9.23,73.71,Unhealthy,Rust
+Bananas,6.72,42.84,131.67,44.09,68.88,Unhealthy,Panama Disease
+Cassava,6.01,13.33,122.23,92.06,161.1,Healthy,Healthy
+Maize,7.35,43.41,108.36,51.75,82.49,Unhealthy,Maize Streak Virus
+Bananas,6.54,69.46,20.17,49.28,73.59,Unhealthy,Panama Disease
+Maize,4.52,33.57,69.7,99.5,100.98,Unhealthy,Maize Streak Virus
+Sweet Potatoes,4.53,61.63,13.29,92.69,115.06,Unhealthy,Black Rot
+Beans,4.74,14.68,110.24,9.84,81.99,Unhealthy,Root Rot
+Soya Beans,4.92,20.59,64.98,48.41,166.69,Unhealthy,Downy Mildew
+Maize,6.12,64.38,118.98,21.63,111.48,Unhealthy,Maize Streak Virus
+Sweet Potatoes,6.72,27.09,109.51,91.44,78.72,Healthy,Healthy
+Beans,4.64,42.62,73.99,67.66,61.66,Unhealthy,Root Rot
+Soya Beans,6.82,35.75,46.26,19.43,146.27,Unhealthy,Rust
+Groundnuts,6.04,26.66,55.69,99.95,192.19,Healthy,Healthy
+Cassava,5.11,63.78,34.28,30.76,153.41,Unhealthy,Cassava Mosaic
+Maize,6.71,25.19,49.05,24.59,77.19,Unhealthy,Leaf Blight
+Groundnuts,7.47,39.66,49.32,33.68,195.34,Unhealthy,Early Leaf Spot
+Maize,6.06,26.71,47.53,13.13,135.29,Unhealthy,Leaf Blight
+Sweet Potatoes,6.7,51.92,47.01,85.26,58.13,Unhealthy,Scab
+Sweet Potatoes,7.22,73.96,39.96,52.22,181.01,Unhealthy,Scab
+Bananas,7.39,71.38,57.88,63.55,41.75,Unhealthy,Banana Streak Virus
+Soya Beans,6.68,70.13,81.38,66.22,68.05,Unhealthy,Rust
+Maize,5.9,62.28,89.04,59.07,82.53,Unhealthy,Leaf Blight
+Maize,4.83,75.15,71.11,18.2,187.92,Unhealthy,Leaf Blight
+Cassava,4.62,47.26,69.63,94.5,134.84,Unhealthy,Bacterial Wilt
+Sweet Potatoes,6.31,54.9,115.27,33.04,131.29,Unhealthy,Scab
+Sweet Potatoes,5.75,43.68,39.7,80.61,157.55,Unhealthy,Black Rot
+Maize,6.27,59.41,142.99,5.77,107.76,Healthy,Healthy
+Cassava,4.73,28.94,112.84,64.08,13.16,Unhealthy,Cassava Mosaic
+Soya Beans,4.74,32.36,103.72,31.51,151.23,Unhealthy,Rust
+Soya Beans,4.52,21.77,49.24,64.35,109.66,Unhealthy,Rust
+Soya Beans,6.09,47.66,60.65,5.99,23.98,Unhealthy,Rust
+Beans,6.97,61.99,93.55,9.89,198.09,Unhealthy,Root Rot
+Sweet Potatoes,6.08,18.44,117.75,93.47,161.73,Unhealthy,Scab
+Bananas,6.59,42.43,38.59,32.85,98.7,Unhealthy,Panama Disease
+Soya Beans,6.24,56.8,98.43,60.41,167.15,Unhealthy,Downy Mildew
+Cassava,7.44,14.81,102.81,89.07,157.92,Unhealthy,Cassava Mosaic
+Sweet Potatoes,5.99,69.19,53.22,58.45,52.06,Unhealthy,Black Rot
+Beans,7.33,56.66,114.36,49.18,123.76,Unhealthy,Anthracnose
+Soya Beans,6.37,14.51,76.51,11.64,188.16,Healthy,Healthy
+Beans,5.56,32.05,29.01,10.6,62.23,Unhealthy,Anthracnose
+Maize,6.56,62.6,83.2,39.53,37.63,Healthy,Healthy
+Beans,5.02,57.87,101.84,36.86,166.1,Unhealthy,Root Rot
+Maize,6.71,27.88,39.5,25.58,149.53,Unhealthy,Maize Streak Virus
+Beans,6.01,37.22,124.75,86.49,160.56,Healthy,Healthy
+Sweet Potatoes,5.66,21.16,28.23,94.98,19.17,Unhealthy,Scab
+Soya Beans,6.26,58.77,40.65,28.14,135.5,Unhealthy,Rust
+Sweet Potatoes,6.81,24.81,19.77,16.53,15.47,Healthy,Healthy
+Beans,4.74,33.09,118.99,9.99,12.3,Unhealthy,Root Rot
+Beans,6.68,16.52,97.05,94.67,106.62,Healthy,Healthy
+Bananas,5.41,18.73,66.09,22.78,86.84,Unhealthy,Panama Disease
+Sweet Potatoes,4.65,24.34,61.82,18.2,39.26,Unhealthy,Scab
+Cassava,5.3,64.37,51.85,82.59,43.68,Healthy,Healthy
+Groundnuts,4.53,57.54,121.14,89.43,43.44,Unhealthy,Aflatoxin Contamination
+Groundnuts,6.7,38.01,129.24,9.14,188.58,Unhealthy,Aflatoxin Contamination
+Soya Beans,7.05,76.77,142.78,56.79,86.72,Unhealthy,Rust
+Maize,6.27,24.11,113.61,81.58,73.73,Unhealthy,Maize Streak Virus
+Maize,7.18,56.08,122.14,50.33,140.26,Healthy,Healthy
+Maize,5.26,72.14,147.83,13.94,157.08,Unhealthy,Maize Streak Virus
+Cassava,6.68,47.75,17.09,78.36,141.48,Unhealthy,Bacterial Wilt
+Bananas,6.91,50.43,73.51,61.23,134.59,Unhealthy,Banana Streak Virus
+Cassava,5.69,46.17,132.97,32.57,14.27,Unhealthy,Bacterial Wilt
+Bananas,6.76,59.05,61.02,50.78,52.83,Healthy,Healthy
+Bananas,5.87,41.76,138.16,98.32,146.47,Unhealthy,Panama Disease
+Sweet Potatoes,6.26,11.69,15.42,6.92,166.31,Unhealthy,Black Rot
+Sweet Potatoes,6.14,37.23,92.11,74.92,90.76,Unhealthy,Black Rot
+Beans,4.67,53.35,118.64,26.84,30.96,Healthy,Healthy
+Bananas,7.4,42.78,102.07,98.36,109.23,Healthy,Healthy
+Soya Beans,7.0,20.76,55.16,87.97,102.88,Healthy,Healthy
+Soya Beans,6.37,50.34,33.72,97.37,105.12,Healthy,Healthy
+Sweet Potatoes,7.45,48.4,103.22,28.14,94.47,Unhealthy,Black Rot
+Beans,5.46,72.54,82.28,17.64,32.38,Unhealthy,Anthracnose
+Cassava,7.34,16.36,98.75,86.73,92.4,Healthy,Healthy
+Bananas,6.31,57.36,111.57,28.76,114.6,Unhealthy,Banana Streak Virus
+Beans,6.52,40.16,47.46,65.53,78.39,Unhealthy,Anthracnose
+Sweet Potatoes,4.7,48.3,74.53,6.87,140.45,Unhealthy,Black Rot
+Soya Beans,6.87,66.69,100.94,56.86,59.01,Unhealthy,Downy Mildew
+Groundnuts,5.88,18.62,108.23,26.81,92.57,Unhealthy,Aflatoxin Contamination
+Bananas,5.1,63.16,59.69,58.79,68.44,Healthy,Healthy
+Sweet Potatoes,5.96,68.93,95.82,24.31,57.76,Unhealthy,Black Rot
+Maize,4.51,50.24,104.59,38.11,167.4,Healthy,Healthy
+Groundnuts,6.95,33.28,106.25,75.5,101.72,Unhealthy,Aflatoxin Contamination
+Bananas,6.08,60.86,38.17,21.11,68.63,Unhealthy,Banana Streak Virus
+Groundnuts,5.27,41.47,147.28,35.74,55.97,Healthy,Healthy
+Sweet Potatoes,6.63,60.4,43.84,92.29,10.98,Unhealthy,Scab
+Bananas,7.28,72.73,132.85,34.46,151.08,Healthy,Healthy
+Sweet Potatoes,4.77,54.95,34.73,89.17,25.04,Unhealthy,Black Rot
+Maize,7.41,72.59,100.94,68.55,12.98,Healthy,Healthy
+Sweet Potatoes,5.9,14.73,20.53,87.4,73.21,Healthy,Healthy
+Groundnuts,4.91,38.4,99.59,55.74,157.54,Unhealthy,Aflatoxin Contamination
+Groundnuts,6.03,72.41,10.16,76.07,69.05,Unhealthy,Early Leaf Spot
+Groundnuts,7.43,47.3,61.93,12.28,131.24,Unhealthy,Aflatoxin Contamination
+Cassava,7.27,45.37,81.99,91.69,156.92,Unhealthy,Bacterial Wilt
+Cassava,5.16,41.51,136.25,48.05,59.01,Unhealthy,Cassava Mosaic
+Soya Beans,6.2,46.69,148.5,66.17,180.78,Unhealthy,Rust
+Cassava,7.14,15.88,71.57,23.22,130.06,Unhealthy,Bacterial Wilt
+Beans,5.05,37.92,91.38,28.14,157.54,Unhealthy,Anthracnose
+Cassava,7.05,36.54,133.47,76.97,64.31,Unhealthy,Cassava Mosaic
+Beans,7.24,44.33,49.31,77.09,106.67,Healthy,Healthy
+Beans,5.25,18.62,135.39,16.1,54.75,Unhealthy,Anthracnose
+Sweet Potatoes,6.65,30.02,99.35,13.69,190.71,Unhealthy,Scab
+Maize,5.5,15.01,95.91,35.68,127.01,Healthy,Healthy
+Sweet Potatoes,5.72,35.78,78.71,88.56,168.69,Healthy,Healthy
+Soya Beans,7.01,39.86,58.06,35.23,136.27,Healthy,Healthy
+Sweet Potatoes,6.96,77.75,134.56,57.77,170.51,Unhealthy,Black Rot
+Groundnuts,5.7,21.73,144.53,7.55,18.55,Unhealthy,Aflatoxin Contamination
+Soya Beans,6.36,18.89,61.61,44.8,61.08,Unhealthy,Downy Mildew
+Maize,5.94,21.01,57.18,12.22,190.34,Unhealthy,Leaf Blight
+Sweet Potatoes,6.18,20.6,34.13,23.99,174.81,Unhealthy,Scab
+Cassava,4.91,49.49,63.9,34.6,70.59,Unhealthy,Bacterial Wilt
+Beans,5.99,60.87,130.18,26.59,198.85,Healthy,Healthy
+Groundnuts,6.08,73.7,27.57,24.67,118.4,Unhealthy,Aflatoxin Contamination
+Beans,6.83,20.28,18.31,79.06,105.83,Unhealthy,Root Rot
+Soya Beans,5.0,53.61,91.89,13.86,163.79,Unhealthy,Downy Mildew
+Sweet Potatoes,6.5,57.95,111.15,64.82,101.15,Healthy,Healthy
+Beans,6.74,38.09,142.44,90.12,111.34,Healthy,Healthy
+Cassava,6.11,78.74,78.23,33.57,162.62,Unhealthy,Bacterial Wilt
+Groundnuts,6.44,67.14,85.26,56.86,84.62,Healthy,Healthy
+Soya Beans,6.11,69.92,12.89,82.39,12.21,Unhealthy,Downy Mildew
+Sweet Potatoes,6.23,32.02,90.0,52.51,20.33,Unhealthy,Scab
+Cassava,7.14,61.73,80.71,92.48,28.16,Unhealthy,Cassava Mosaic
+Soya Beans,7.13,23.61,57.04,5.81,31.49,Unhealthy,Rust
+Maize,5.87,73.76,52.38,70.3,74.01,Unhealthy,Leaf Blight
+Beans,6.14,75.8,121.16,26.21,24.78,Unhealthy,Anthracnose
+Soya Beans,7.02,72.57,90.38,51.28,143.3,Unhealthy,Rust
+Groundnuts,5.93,32.36,105.04,67.51,112.69,Unhealthy,Aflatoxin Contamination
+Groundnuts,7.22,74.75,109.14,82.8,100.46,Unhealthy,Aflatoxin Contamination
+Bananas,5.7,46.59,91.83,8.16,109.94,Unhealthy,Banana Streak Virus
+Groundnuts,6.38,39.24,107.35,10.45,160.09,Unhealthy,Early Leaf Spot
+Groundnuts,7.35,70.72,74.15,79.89,196.02,Unhealthy,Early Leaf Spot
+Sweet Potatoes,5.9,12.29,85.53,86.82,53.26,Unhealthy,Scab
+Groundnuts,5.77,74.97,72.67,59.69,193.87,Unhealthy,Early Leaf Spot
+Soya Beans,7.49,64.69,119.52,54.21,170.04,Unhealthy,Downy Mildew
+Cassava,5.66,13.55,128.97,71.23,168.61,Healthy,Healthy
+Soya Beans,7.09,33.55,140.66,74.62,50.7,Unhealthy,Rust
+Groundnuts,4.72,57.1,74.26,58.3,25.96,Unhealthy,Early Leaf Spot
+Cassava,4.78,27.19,127.79,32.43,43.55,Healthy,Healthy
+Bananas,6.12,12.98,101.59,6.89,74.42,Unhealthy,Banana Streak Virus
+Bananas,7.19,46.64,54.05,48.37,36.13,Healthy,Healthy
+Sweet Potatoes,6.15,46.9,65.26,76.46,10.06,Unhealthy,Scab
+Groundnuts,5.15,50.75,33.87,81.33,103.28,Healthy,Healthy
+Soya Beans,5.05,32.56,91.25,34.07,68.4,Unhealthy,Rust
+Beans,6.82,11.72,141.75,92.04,67.33,Unhealthy,Anthracnose
+Maize,7.4,29.95,71.53,75.66,188.89,Unhealthy,Maize Streak Virus
+Sweet Potatoes,6.48,39.96,104.96,83.7,96.53,Unhealthy,Scab
+Soya Beans,6.77,56.57,81.83,38.47,144.26,Unhealthy,Downy Mildew
+Cassava,6.84,27.78,51.99,43.37,139.13,Unhealthy,Bacterial Wilt
+Groundnuts,6.13,65.26,86.27,73.42,186.22,Unhealthy,Aflatoxin Contamination
+Sweet Potatoes,4.61,65.82,119.74,32.8,29.04,Unhealthy,Black Rot
+Bananas,5.36,68.01,24.17,38.4,38.28,Unhealthy,Panama Disease
+Bananas,7.03,75.46,116.9,6.49,143.66,Healthy,Healthy
+Sweet Potatoes,6.62,45.11,107.47,64.19,164.69,Unhealthy,Scab
+Bananas,4.9,49.66,36.81,47.28,129.84,Unhealthy,Panama Disease
+Cassava,4.61,44.04,31.29,17.83,65.09,Unhealthy,Bacterial Wilt
+Sweet Potatoes,5.2,27.62,117.76,90.03,172.86,Healthy,Healthy
+Sweet Potatoes,4.89,32.07,141.68,27.57,188.38,Unhealthy,Scab
+Soya Beans,5.64,35.66,71.26,31.29,120.35,Unhealthy,Downy Mildew
+Sweet Potatoes,7.24,32.28,134.57,39.51,52.25,Healthy,Healthy
+Maize,7.47,34.3,35.89,94.38,180.39,Healthy,Healthy
+Beans,6.05,63.19,122.26,58.86,199.74,Unhealthy,Root Rot
+Bananas,4.87,53.16,36.45,12.76,146.29,Unhealthy,Panama Disease
+Soya Beans,7.37,47.47,148.31,31.48,152.67,Unhealthy,Downy Mildew
+Soya Beans,4.68,63.76,98.28,30.52,195.27,Unhealthy,Rust
+Bananas,6.6,55.86,50.72,64.56,114.87,Unhealthy,Banana Streak Virus
+Soya Beans,5.94,58.97,35.05,7.4,165.91,Unhealthy,Downy Mildew
+Beans,5.32,39.24,40.96,96.41,145.33,Unhealthy,Root Rot
+Soya Beans,6.47,41.07,75.92,80.41,143.44,Healthy,Healthy
+Maize,7.01,59.96,46.12,21.03,107.4,Healthy,Healthy
+Soya Beans,6.29,68.06,13.09,99.93,138.11,Healthy,Healthy
+Bananas,4.66,19.86,28.06,62.92,38.8,Unhealthy,Panama Disease
+Groundnuts,6.72,35.92,127.31,67.02,27.56,Unhealthy,Aflatoxin Contamination
+Soya Beans,6.24,44.59,101.75,74.83,108.45,Unhealthy,Rust
+Soya Beans,6.37,79.42,82.66,20.42,81.83,Healthy,Healthy
+Maize,5.15,75.53,131.36,52.88,131.41,Healthy,Healthy
+Sweet Potatoes,6.83,21.36,36.67,39.61,103.93,Healthy,Healthy
+Cassava,5.74,70.82,97.3,87.07,150.22,Healthy,Healthy
+Groundnuts,6.88,10.72,124.8,71.61,195.11,Healthy,Healthy
+Beans,6.98,74.09,38.25,98.37,125.16,Unhealthy,Root Rot
+Groundnuts,5.48,67.95,104.0,87.81,175.06,Unhealthy,Aflatoxin Contamination
+Soya Beans,6.35,42.75,107.93,43.48,152.69,Unhealthy,Downy Mildew
+Sweet Potatoes,4.85,71.8,103.3,86.72,33.75,Healthy,Healthy
+Bananas,5.17,39.11,114.8,79.91,191.84,Healthy,Healthy
+Cassava,7.07,63.96,139.82,52.94,132.46,Unhealthy,Bacterial Wilt
+Bananas,6.16,34.01,54.15,48.18,51.2,Unhealthy,Panama Disease
+Sweet Potatoes,5.67,34.42,58.35,56.65,40.55,Unhealthy,Scab
+Groundnuts,6.89,21.87,78.45,11.23,161.33,Unhealthy,Aflatoxin Contamination
+Bananas,5.49,76.8,119.59,6.1,116.17,Healthy,Healthy
+Cassava,4.76,64.65,14.56,15.73,193.99,Unhealthy,Bacterial Wilt
+Beans,5.58,49.94,57.2,86.18,167.75,Healthy,Healthy
+Beans,4.71,74.64,34.5,56.44,189.38,Unhealthy,Anthracnose
+Maize,7.34,60.64,41.28,80.64,76.86,Unhealthy,Maize Streak Virus
+Maize,7.29,68.61,143.14,15.33,133.69,Healthy,Healthy
+Sweet Potatoes,6.34,36.4,111.21,6.2,115.27,Unhealthy,Scab
+Cassava,6.35,43.16,33.14,75.61,136.78,Unhealthy,Cassava Mosaic
+Cassava,5.99,56.73,21.68,45.69,116.55,Unhealthy,Cassava Mosaic
+Maize,7.3,40.69,106.57,85.9,144.98,Unhealthy,Maize Streak Virus
+Beans,4.53,63.98,56.61,21.31,111.29,Healthy,Healthy
+Maize,7.49,58.87,47.22,88.62,23.27,Unhealthy,Leaf Blight
+Beans,4.53,69.12,139.8,32.93,100.44,Healthy,Healthy
+Sweet Potatoes,4.61,15.02,31.49,38.71,153.22,Healthy,Healthy
+Maize,4.69,14.22,101.51,5.62,147.63,Unhealthy,Maize Streak Virus
+Bananas,4.77,35.86,127.81,96.47,140.69,Unhealthy,Banana Streak Virus
+Sweet Potatoes,7.26,42.98,43.98,78.2,126.21,Healthy,Healthy
+Groundnuts,4.57,66.08,51.86,5.69,29.15,Unhealthy,Early Leaf Spot
+Cassava,6.97,75.66,85.16,96.01,38.91,Healthy,Healthy
+Sweet Potatoes,4.51,27.05,98.51,92.19,16.77,Unhealthy,Scab
+Maize,7.45,67.65,117.75,8.45,17.36,Healthy,Healthy
+Maize,4.92,44.74,111.51,31.31,174.6,Unhealthy,Leaf Blight
+Cassava,7.47,66.77,87.35,66.45,162.57,Healthy,Healthy
+Bananas,6.46,37.61,130.72,26.9,88.71,Healthy,Healthy
+Bananas,6.24,42.67,52.68,21.59,180.09,Unhealthy,Panama Disease
+Bananas,7.46,42.29,22.0,52.92,112.06,Healthy,Healthy
+Bananas,5.51,53.02,86.35,90.98,194.11,Healthy,Healthy
+Soya Beans,6.35,55.42,60.71,22.97,92.62,Unhealthy,Rust
+Cassava,5.9,24.7,40.68,59.03,175.82,Healthy,Healthy
+Groundnuts,7.2,53.3,106.88,18.63,60.75,Unhealthy,Early Leaf Spot
+Soya Beans,5.42,73.97,43.22,98.45,190.95,Unhealthy,Downy Mildew
+Soya Beans,5.47,78.54,36.03,77.55,12.0,Unhealthy,Rust
+Cassava,4.84,76.13,133.21,19.51,157.87,Healthy,Healthy
+Groundnuts,5.63,71.58,56.17,61.74,34.61,Healthy,Healthy
+Sweet Potatoes,6.25,70.47,38.31,20.92,104.13,Healthy,Healthy
+Maize,5.36,12.06,126.04,71.28,67.14,Healthy,Healthy
+Groundnuts,6.2,47.67,42.75,92.73,170.7,Unhealthy,Early Leaf Spot
+Soya Beans,6.16,33.31,35.15,23.75,27.55,Healthy,Healthy
+Soya Beans,4.59,65.7,29.83,93.89,167.0,Unhealthy,Rust
+Soya Beans,4.98,36.68,69.91,39.89,191.73,Unhealthy,Downy Mildew
+Beans,6.73,77.24,102.91,17.08,101.76,Healthy,Healthy
+Groundnuts,5.44,22.32,147.95,86.03,35.21,Unhealthy,Early Leaf Spot
+Maize,5.12,18.45,107.5,57.09,52.02,Healthy,Healthy
+Soya Beans,5.67,20.83,105.1,90.14,193.63,Healthy,Healthy
+Groundnuts,6.41,46.57,93.68,74.34,43.16,Unhealthy,Early Leaf Spot
+Bananas,6.94,33.97,115.34,23.04,74.37,Healthy,Healthy
+Beans,7.15,74.26,89.24,65.65,27.54,Healthy,Healthy
+Soya Beans,7.09,52.87,35.7,80.72,50.6,Unhealthy,Rust
+Maize,6.06,10.43,17.8,90.46,196.67,Unhealthy,Maize Streak Virus
+Maize,4.87,34.14,31.4,57.21,126.97,Unhealthy,Maize Streak Virus
+Bananas,5.2,36.25,89.95,12.5,19.67,Healthy,Healthy
+Soya Beans,6.07,40.76,39.32,70.75,105.11,Unhealthy,Rust
+Groundnuts,6.32,52.32,133.53,92.72,100.04,Healthy,Healthy
+Cassava,5.54,72.39,98.52,21.75,52.63,Unhealthy,Cassava Mosaic
+Soya Beans,5.21,33.37,50.41,82.65,194.84,Unhealthy,Rust
+Cassava,6.16,12.37,13.33,58.08,184.88,Unhealthy,Bacterial Wilt
+Cassava,4.73,31.5,24.68,45.19,42.95,Unhealthy,Bacterial Wilt
+Maize,6.22,23.58,97.4,44.86,173.69,Unhealthy,Maize Streak Virus
+Groundnuts,6.08,21.67,37.88,70.39,69.31,Healthy,Healthy
+Cassava,7.1,10.01,23.23,54.81,135.18,Unhealthy,Bacterial Wilt
+Cassava,5.05,16.56,59.1,80.65,191.49,Healthy,Healthy
+Bananas,7.3,42.74,60.44,67.43,174.7,Healthy,Healthy
+Beans,6.57,39.41,105.63,42.52,63.52,Unhealthy,Anthracnose
+Groundnuts,6.36,30.4,11.58,53.31,41.29,Unhealthy,Early Leaf Spot
+Beans,7.44,36.67,87.85,66.19,19.99,Unhealthy,Root Rot
+Bananas,5.81,63.42,67.87,58.49,75.04,Unhealthy,Banana Streak Virus
+Soya Beans,6.54,22.84,38.1,27.39,34.0,Unhealthy,Rust
+Beans,6.1,11.7,61.69,52.21,105.53,Unhealthy,Root Rot
+Cassava,6.69,63.84,127.19,73.39,50.05,Unhealthy,Bacterial Wilt
+Sweet Potatoes,7.14,47.51,139.61,72.86,123.66,Healthy,Healthy
+Bananas,5.05,70.28,63.72,42.76,29.17,Unhealthy,Panama Disease
+Maize,7.41,25.36,24.13,9.76,49.97,Healthy,Healthy
+Bananas,6.33,30.63,35.08,37.37,74.58,Unhealthy,Banana Streak Virus
+Groundnuts,6.41,55.96,149.35,30.56,14.97,Unhealthy,Aflatoxin Contamination
+Beans,4.59,16.87,59.7,92.61,117.52,Healthy,Healthy
+Bananas,6.01,53.45,131.86,92.08,172.84,Unhealthy,Banana Streak Virus
+Bananas,5.3,69.54,63.98,35.71,127.14,Unhealthy,Banana Streak Virus
+Bananas,7.32,51.9,121.41,59.56,116.71,Unhealthy,Panama Disease
+Soya Beans,7.08,62.03,142.16,51.73,112.44,Healthy,Healthy
+Bananas,5.25,60.71,138.88,89.34,111.61,Unhealthy,Panama Disease
+Sweet Potatoes,7.09,20.68,131.24,81.12,42.26,Unhealthy,Black Rot
+Cassava,6.95,37.55,20.07,86.5,33.05,Unhealthy,Bacterial Wilt
+Bananas,6.91,49.57,146.49,31.66,102.14,Unhealthy,Panama Disease
+Groundnuts,7.06,14.12,12.17,29.95,112.14,Unhealthy,Aflatoxin Contamination
+Soya Beans,7.14,57.22,86.1,23.53,185.89,Healthy,Healthy
+Soya Beans,5.51,15.02,42.79,47.85,83.84,Unhealthy,Rust
+Maize,5.54,18.33,94.44,19.05,72.82,Unhealthy,Leaf Blight
+Groundnuts,7.41,59.29,140.01,56.94,102.84,Unhealthy,Aflatoxin Contamination
+Soya Beans,5.92,20.81,149.84,44.04,159.18,Unhealthy,Rust
+Maize,6.21,30.31,59.82,59.67,117.34,Healthy,Healthy
+Beans,4.59,26.08,103.68,78.02,106.71,Healthy,Healthy
+Groundnuts,5.95,18.12,138.23,93.57,181.85,Unhealthy,Aflatoxin Contamination
+Maize,4.77,41.41,117.73,57.71,183.49,Healthy,Healthy
+Soya Beans,7.22,46.48,65.99,51.72,111.76,Healthy,Healthy
+Beans,4.67,60.01,13.78,79.89,15.11,Unhealthy,Root Rot
+Bananas,5.93,32.47,105.13,39.88,176.79,Healthy,Healthy
+Sweet Potatoes,6.94,33.14,69.39,34.65,24.09,Healthy,Healthy
+Groundnuts,6.5,32.57,44.3,97.5,98.6,Unhealthy,Aflatoxin Contamination
+Soya Beans,6.43,38.61,34.96,24.38,82.08,Healthy,Healthy
+Groundnuts,6.12,67.54,141.41,25.67,106.13,Unhealthy,Aflatoxin Contamination
+Bananas,6.71,54.28,64.94,25.31,186.53,Healthy,Healthy
+Soya Beans,4.63,31.05,137.61,27.11,85.56,Unhealthy,Downy Mildew
+Bananas,5.42,41.5,76.66,66.19,129.66,Unhealthy,Banana Streak Virus
+Cassava,7.0,73.6,38.75,60.47,169.23,Unhealthy,Cassava Mosaic
+Bananas,4.91,73.36,34.71,78.1,29.44,Unhealthy,Banana Streak Virus
+Beans,6.34,34.43,69.51,44.86,19.68,Healthy,Healthy
+Maize,6.48,61.84,29.11,18.61,154.54,Unhealthy,Maize Streak Virus
+Maize,6.38,13.2,28.58,47.75,50.94,Unhealthy,Maize Streak Virus
+Maize,6.98,54.99,41.8,40.05,79.74,Unhealthy,Leaf Blight
+Groundnuts,4.91,69.65,81.58,50.18,91.41,Unhealthy,Early Leaf Spot
+Maize,6.14,14.2,117.01,25.65,58.82,Healthy,Healthy
+Groundnuts,6.1,46.11,130.07,53.42,120.91,Healthy,Healthy
+Beans,6.84,10.4,15.15,96.68,151.87,Unhealthy,Root Rot
+Maize,6.59,31.86,61.24,52.73,50.93,Unhealthy,Leaf Blight
+Maize,5.82,35.96,48.23,77.16,68.88,Healthy,Healthy
+Sweet Potatoes,5.59,69.45,37.01,80.47,16.0,Unhealthy,Scab
+Sweet Potatoes,6.32,41.22,58.45,38.57,140.27,Healthy,Healthy
+Beans,7.09,45.9,75.83,85.38,187.49,Unhealthy,Anthracnose
+Soya Beans,7.02,32.35,114.36,15.85,14.82,Unhealthy,Rust
+Groundnuts,5.71,38.75,140.24,60.93,168.63,Unhealthy,Early Leaf Spot
+Bananas,5.87,46.14,113.99,97.37,51.5,Unhealthy,Banana Streak Virus
+Soya Beans,6.81,15.26,38.21,17.87,89.17,Unhealthy,Downy Mildew
+Groundnuts,5.42,10.15,84.71,30.23,174.28,Healthy,Healthy
+Groundnuts,5.64,75.01,43.02,43.85,134.96,Unhealthy,Aflatoxin Contamination
+Sweet Potatoes,5.18,25.24,70.34,65.23,141.78,Unhealthy,Black Rot
+Beans,5.99,52.36,118.95,60.36,158.61,Unhealthy,Anthracnose
+Cassava,6.36,38.49,111.94,58.71,83.38,Unhealthy,Cassava Mosaic
+Bananas,6.18,26.92,29.04,79.7,14.91,Unhealthy,Panama Disease
+Bananas,6.92,15.61,75.39,54.78,100.71,Healthy,Healthy
+Bananas,4.59,47.41,34.91,14.01,166.67,Healthy,Healthy
+Maize,6.03,11.56,65.39,74.78,58.03,Unhealthy,Leaf Blight
+Groundnuts,6.11,49.79,31.19,66.37,189.4,Healthy,Healthy
+Maize,6.83,27.63,102.0,29.43,109.53,Healthy,Healthy
+Soya Beans,7.29,16.75,69.62,51.5,174.17,Unhealthy,Rust
+Maize,4.65,46.62,26.98,37.55,56.02,Healthy,Healthy
+Beans,4.96,61.65,141.17,97.51,127.2,Unhealthy,Anthracnose
+Soya Beans,7.1,60.03,16.61,21.24,148.4,Unhealthy,Rust
+Soya Beans,5.94,22.61,90.02,63.06,39.59,Healthy,Healthy
+Cassava,5.49,66.02,28.47,24.75,146.44,Healthy,Healthy
+Cassava,6.87,52.75,45.46,86.47,144.98,Healthy,Healthy
+Beans,5.82,22.03,105.66,79.49,181.61,Healthy,Healthy
+Beans,4.58,56.4,30.04,27.77,133.23,Unhealthy,Root Rot
+Cassava,6.13,50.18,103.6,28.34,84.83,Healthy,Healthy
+Sweet Potatoes,7.01,44.12,21.02,80.78,187.48,Unhealthy,Black Rot
+Maize,5.6,35.79,76.7,20.27,15.83,Healthy,Healthy
+Groundnuts,7.49,56.61,14.08,74.3,99.55,Healthy,Healthy
+Beans,7.34,44.08,110.99,81.3,66.49,Healthy,Healthy
+Bananas,5.76,53.36,139.26,85.17,193.91,Healthy,Healthy
+Soya Beans,5.36,72.21,71.9,91.8,131.81,Healthy,Healthy
+Bananas,5.24,75.64,14.43,65.7,198.53,Unhealthy,Banana Streak Virus
+Bananas,5.33,27.34,70.49,22.65,63.96,Unhealthy,Panama Disease
+Bananas,7.42,28.6,36.67,95.92,99.45,Unhealthy,Banana Streak Virus
+Cassava,5.6,49.24,23.71,95.41,103.17,Healthy,Healthy
+Beans,7.45,31.91,66.48,5.81,129.35,Healthy,Healthy
+Bananas,5.93,14.67,127.61,52.06,48.93,Healthy,Healthy
+Sweet Potatoes,6.13,71.28,60.66,72.58,157.69,Healthy,Healthy
+Bananas,4.82,64.42,110.12,33.98,170.2,Unhealthy,Banana Streak Virus
+Sweet Potatoes,5.43,43.82,12.82,26.26,108.53,Unhealthy,Scab
+Groundnuts,5.54,62.16,95.19,70.43,92.57,Unhealthy,Early Leaf Spot
+Sweet Potatoes,6.26,26.1,88.37,64.71,15.56,Healthy,Healthy
+Sweet Potatoes,7.16,38.18,131.81,86.96,22.81,Unhealthy,Scab
+Cassava,6.19,67.57,36.39,36.76,189.74,Unhealthy,Cassava Mosaic
+Bananas,4.8,52.15,139.49,37.43,53.53,Unhealthy,Banana Streak Virus
+Groundnuts,6.23,71.14,95.51,92.29,155.66,Unhealthy,Aflatoxin Contamination
+Sweet Potatoes,5.6,45.62,103.85,62.27,156.76,Unhealthy,Scab
+Groundnuts,5.63,32.7,132.47,7.4,194.11,Unhealthy,Early Leaf Spot
+Cassava,6.49,73.08,46.62,22.74,73.24,Healthy,Healthy
+Soya Beans,4.88,57.04,64.2,35.7,32.14,Unhealthy,Rust
+Groundnuts,6.75,21.24,90.92,30.63,176.85,Unhealthy,Early Leaf Spot
+Soya Beans,5.66,10.4,67.63,11.57,189.6,Unhealthy,Rust
+Sweet Potatoes,7.49,53.14,61.29,73.33,187.48,Unhealthy,Scab
+Bananas,6.92,60.13,32.71,86.32,113.25,Healthy,Healthy
+Beans,5.61,78.07,148.47,96.25,34.07,Unhealthy,Root Rot
+Cassava,5.51,58.6,95.78,39.59,149.55,Unhealthy,Bacterial Wilt
+Maize,5.26,40.13,39.32,70.77,88.52,Unhealthy,Leaf Blight
+Cassava,7.02,31.58,39.7,94.81,23.4,Unhealthy,Bacterial Wilt
+Bananas,5.67,14.56,20.7,22.5,120.54,Unhealthy,Panama Disease
+Bananas,6.96,31.04,120.99,14.43,189.41,Unhealthy,Panama Disease
+Sweet Potatoes,5.78,15.23,125.47,47.01,22.28,Healthy,Healthy
+Maize,5.74,34.56,44.51,47.13,10.57,Unhealthy,Maize Streak Virus
+Sweet Potatoes,6.8,30.76,99.5,57.79,83.11,Unhealthy,Scab
+Maize,6.55,78.0,20.06,81.4,196.53,Unhealthy,Leaf Blight
+Maize,6.15,31.79,94.39,64.93,188.87,Healthy,Healthy
+Groundnuts,5.92,65.25,96.73,47.02,120.59,Healthy,Healthy
+Sweet Potatoes,6.76,52.94,56.76,48.76,171.73,Healthy,Healthy
+Beans,5.06,61.54,138.48,49.72,128.4,Unhealthy,Anthracnose
+Beans,6.7,70.2,10.67,30.77,99.78,Healthy,Healthy
+Soya Beans,5.85,26.2,66.01,99.85,46.42,Unhealthy,Rust
+Sweet Potatoes,4.91,16.95,88.65,92.31,30.17,Unhealthy,Black Rot
+Bananas,7.4,57.78,15.06,87.63,19.19,Unhealthy,Panama Disease
+Beans,5.55,33.71,91.6,88.69,62.7,Unhealthy,Anthracnose
+Sweet Potatoes,7.37,59.82,87.06,44.63,139.53,Unhealthy,Scab
+Cassava,4.57,18.15,39.33,48.74,41.22,Healthy,Healthy
+Sweet Potatoes,6.14,19.21,79.34,73.72,23.39,Unhealthy,Scab
+Sweet Potatoes,6.27,74.17,25.47,29.06,36.14,Unhealthy,Black Rot
+Bananas,4.94,34.03,141.9,89.03,30.33,Unhealthy,Banana Streak Virus
+Cassava,4.86,31.14,67.14,45.77,197.48,Unhealthy,Bacterial Wilt
+Soya Beans,6.19,76.18,19.18,88.19,91.8,Unhealthy,Rust
+Cassava,6.81,49.31,45.38,97.21,18.57,Unhealthy,Bacterial Wilt
+Sweet Potatoes,4.9,59.19,91.17,75.8,87.02,Unhealthy,Black Rot
+Beans,6.72,67.63,115.26,37.79,66.11,Unhealthy,Root Rot
+Sweet Potatoes,6.45,61.41,37.69,51.19,62.21,Unhealthy,Black Rot
+Beans,6.37,42.06,77.16,20.05,199.22,Healthy,Healthy
+Soya Beans,5.71,65.5,74.09,94.29,24.27,Unhealthy,Downy Mildew
+Beans,5.51,45.47,60.64,43.13,127.63,Unhealthy,Root Rot
+Beans,6.92,31.62,38.84,71.0,170.64,Healthy,Healthy
+Soya Beans,7.06,10.69,65.09,9.11,89.49,Unhealthy,Rust
+Bananas,5.11,21.24,118.0,66.76,174.21,Unhealthy,Banana Streak Virus
+Soya Beans,6.53,59.88,109.86,80.02,162.87,Unhealthy,Rust
+Beans,7.04,69.48,96.82,23.66,96.99,Unhealthy,Root Rot
+Sweet Potatoes,6.65,51.3,49.02,59.45,46.46,Unhealthy,Black Rot
+Bananas,6.37,69.67,129.51,85.86,187.61,Healthy,Healthy
+Bananas,5.38,78.59,96.56,85.03,102.86,Healthy,Healthy
+Soya Beans,4.52,32.1,38.88,82.16,91.21,Healthy,Healthy
+Soya Beans,7.16,61.54,100.93,68.53,141.22,Healthy,Healthy
+Maize,6.22,20.17,29.83,42.97,88.09,Unhealthy,Leaf Blight
+Groundnuts,5.39,58.37,97.38,46.66,123.47,Unhealthy,Early Leaf Spot
+Soya Beans,4.72,58.78,16.23,43.5,107.2,Unhealthy,Downy Mildew
+Maize,6.81,51.81,19.95,87.64,150.02,Healthy,Healthy

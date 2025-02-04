@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>FarmGuard Dashboard</title>
+    <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-database.js"></script>
+
+    <style>
+        body {
+            background-image: url('https://example.com/agriculture_background.jpg'); /* Replace with your image URL */
+            background-size: cover;
+            font-family: Arial, sans-serif;
+            color: white;
+            text-align: center;
+        }
+        .container {
+            background: rgba(0, 0, 0, 0.6);
+            padding: 20px;
+            border-radius: 10px;
+            display: inline-block;
+            margin-top: 20px;
+        }
+        h1 { color: #ffcc00; }
+        button {
+            padding: 10px;
+            margin: 5px;
+            border: none;
+            cursor: pointer;
+            font-weight: bold;
+        }
+        .on { background: green; color: white; }
+        .off { background: red; color: white; }
+    </style>
+
+    <script>
+        // Firebase Configuration
+        var firebaseConfig = {
+            apiKey: "AIzaSyD-EXAMPLE1234567890ABCDEFGHIJ",
+            authDomain: "farmguard-rwanda.firebaseapp.com",
+            databaseURL: "https://farmguard-rwanda-default-rtdb.firebaseio.com",
+            projectId: "farmguard-rwanda",
+            storageBucket: "farmguard-rwanda.appspot.com",
+            messagingSenderId: "123456789012",
+            appId: "1:123456789012:web:abcdef123456"
+        };
+        firebase.initializeApp(firebaseConfig);
+
+        function updateData() {
+            firebase.database().ref("/FarmGuard").on("value", (snapshot) => {
+                let data = snapshot.val();
+                document.getElementById("temp").innerText = data.Temperature + " °C";
+                document.getElementById("humidity").innerText = data.Humidity + " %";
+                document.getElementById("soil").innerText = data.SoilMoisture + " %";
+                document.getElementById("npk").innerText = data.NPK + " ppm";
+            });
+        }
+
+        function updateFarmData() {
+            firebase.database().ref("/FarmData").on("value", (snapshot) => {
+                let data = snapshot.val();
+                document.getElementById("maize").innerText = `Temp: ${data.Maize.Temperature}, NPK: ${data.Maize.NPK}`;
+                document.getElementById("cassava").innerText = `Temp: ${data.Cassava.Temperature}, Disease: ${data.Cassava.Health}`;
+                document.getElementById("beans").innerText = `Temp: ${data.Beans.Temperature}, NPK: ${data.Beans.NPK}`;
+                document.getElementById("soya").innerText = `Temp: ${data.SoyaBeans.Temperature}, Disease: ${data.SoyaBeans.Health}`;
+                document.getElementById("cows").innerText = `Health: ${data.Livestock.Cows.Health}, Milk: ${data.Livestock.Cows.MilkProduction}`;
+            });
+        }
+
+        function controlDevice(device, status) {
+            firebase.database().ref("/FarmGuard/" + device).set(status);
+        }
+
+        updateData();
+        updateFarmData();
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h1>FarmGuard Dashboard</h1>
+        <h2>Environmental Data</h2>
+        <p>🌡 Temperature: <span id="temp"></span></p>
+        <p>💧 Humidity: <span id="humidity"></span></p>
+        <p>🌱 Soil Moisture: <span id="soil"></span></p>
+        <p>🧪 NPK Levels: <span id="npk"></span></p>
+
+        <h2>Crop & Livestock Monitoring</h2>
+        <p>🌽 Maize: <span id="maize"></span></p>
+        <p>🥔 Cassava: <span id="cassava"></span></p>
+        <p>🫘 Beans: <span id="beans"></span></p>
+        <p>🌿 Soya Beans: <span id="soya"></span></p>
+        <p>🐄 Cows: <span id="cows"></span></p>
+
+        <h2>Farm Security</h2>
+        <button class="on" onclick="controlDevice('Siren', 'ON')">Turn ON Siren</button>
+        <button class="off" onclick="controlDevice('Siren', 'OFF')">Turn OFF Siren</button>
+    </div>
+</body>
+</html>
